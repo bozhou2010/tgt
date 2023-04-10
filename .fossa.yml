@@ -1,0 +1,13 @@
+version: 3
+
+server: https://app.fossa.com
+apiKey: c5e7d8f265003bfe915497d8d6622071
+
+project:
+  id: test
+  name: test
+  team: test
+
+paths:
+    only:
+     - ./usr

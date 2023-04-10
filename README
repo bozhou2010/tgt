@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbozhou2010%2Ftgt.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbozhou2010%2Ftgt?ref=badge_shield)
+
 Introduction
 -------------
 Linux target framework (tgt) aims to simplify various SCSI target
@@ -68,3 +70,7 @@ submission (scripts/checkpatch.pl) like the following example.
 
 fujita@arbre:~/git/tgt$ ./scripts/checkpatch.pl ~/0001-add-bidi-support.patch
 Your patch has no obvious style problems and is ready for submission.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbozhou2010%2Ftgt.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbozhou2010%2Ftgt?ref=badge_large)

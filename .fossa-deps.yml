@@ -1,0 +1,5 @@
+vendored-dependencies:
+- name: ./usr/tgtadm.c
+  path: ./usr/tgtadm.c
+- name: ./usr/bs_rbd.c
+  path: ./usr/bs_rbd.c
